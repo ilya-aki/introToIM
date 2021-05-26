@@ -13,4 +13,5 @@ Creating the background was mostly without difficulties. For the sun, I initiall
 While the head and face were not challenging to create, the t-shirt required some calculations to ensure that both sleeves would look symmetrical. I superposed triangles and squares on each side to make this shape.
 
 Here's the final result;
+
 <img width="612" alt="ilya_autoportrait_final" src="https://user-images.githubusercontent.com/61503490/119612351-d78a9280-be0c-11eb-9b03-33734c2a20f1.png">
