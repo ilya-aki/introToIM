@@ -1,6 +1,10 @@
 # Slow down
 
+### Final product:
+
 ![final6compressed](https://user-images.githubusercontent.com/61503490/120151416-49901c80-c1fd-11eb-841e-70bbb31c6a61.gif)
+
+(high-res file in this Gdrive link: https://drive.google.com/file/d/1sMCRnswlxBeexuHziFzg6hhBpleMHHqm/view?usp=sharing)
 
 For this assignment, I wanted to experiment with poster art and the recent trend of retro-futuristic graphics. My first inspiration was the Space Oddity project by Ak Kao, who made monotone and animated, scientific-like posters. (link; [https://www.behance.net/gallery/51249217/Space-Oddity](https://www.behance.net/gallery/51249217/Space-Oddity))
 
