@@ -1,1 +1,3 @@
+To impelement arrays in my code, I decide to replace the native ```width```variable that was alreayd in use. Since my artwork is structured in a grid structure, I am using each element of the array as a reference point to access each column. 
 
+My intent is that the array should have 9 slots, each representing a column in the artwork. As I could not figure out this specific idea, I have created 900 slots in my array, and with an ```if()``` statement very if the column in quetion is the right one. For example, if the current slot is equal to 100, then the code can proceed to add circles and change their color. 
