@@ -1,6 +1,6 @@
 # Gamify your essay
 
-### Introduction
+## Introduction
 On personal experience, I find it hard to enter a state of flow to write my essays. It is often an intimidating process that should not be left for the last minute. This is why I thought of gamification, a known technique that makes work more fun. Taking inspiration from pomodoro study techniques and smart fitness equipment UX (powered by sounds), I want to make a game that would reward the write on the go, as to build a habit to put down words fearlessly.
 
 
@@ -15,11 +15,10 @@ Page 1             |  Page 2
 <img width="500" alt="brainstorm_page_1" src= https://user-images.githubusercontent.com/61503490/121135297-6c49b300-c845-11eb-8ce4-89cfec66893f.jpg>  |  <img width="500" alt="brainstorm_page_1" src=https://user-images.githubusercontent.com/61503490/121135382-7ec3ec80-c845-11eb-8a51-196d5579b8ce.jpg>
 
 
-
-
-
+## Inspiration and links to sounds I used
 My primary source of inspiratipn was this podcast from Adobe which explored how smart fitness gear (such as the Apple Watch or Peloton) use subtle and rewarding sounds to keep users push themselves during workouts. Link: https://podcasts.apple.com/ae/podcast/wireframe/id1437677219?i=1000518610349 
 
+# Daily journal, featuring struggles and moments of joy
 
 ## June 8th
 
