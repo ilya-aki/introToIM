@@ -28,7 +28,7 @@ I am having difficulties with understanding how sound works. I first tried havin
 Some tutorials helped me grasp the concept, and following the code from the lecture, it seems that I was able to make sounds play when the keyboard is pressed. The next challenge would be to figure out how to play the meditative song once the user reaches an optimal and consistent typing pace.
 
 
-## June 11th -- 10am
+## June 11th — 10am
 
 To clarify my goals, I have broken down the code in to small and logical steps:
 
@@ -45,7 +45,8 @@ Here are a few challenges I encountered, and was able to resolve:
     *Solution* → I will make a variable, which will be incremented by 1 every time keyPressed() is true (since keypresses is a boolean, I think)
 
 2. I had this code:
-````if (keyPressed == true) {
+````
+if (keyPressed == true) {
     println("key was pressed");
     sounds[0].play();
     println("sound played");
