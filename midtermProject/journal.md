@@ -15,8 +15,17 @@ Page 1             |  Page 2
 <img width="500" alt="brainstorm_page_1" src= https://user-images.githubusercontent.com/61503490/121135297-6c49b300-c845-11eb-8ce4-89cfec66893f.jpg>  |  <img width="500" alt="brainstorm_page_1" src=https://user-images.githubusercontent.com/61503490/121135382-7ec3ec80-c845-11eb-8a51-196d5579b8ce.jpg>
 
 
+
 ## Inspiration and links to sounds I used
 My primary source of inspiratipn was this podcast from Adobe which explored how smart fitness gear (such as the Apple Watch or Peloton) use subtle and rewarding sounds to keep users push themselves during workouts. Link: https://podcasts.apple.com/ae/podcast/wireframe/id1437677219?i=1000518610349 
+
+For the keyboard sounds, I decided to follow the observations from the podcast, and indeed used the sounds from the Apple Watch;
+https://www.youtube.com/watch?v=I0x2D0hGdTY&ab_channel=AppleDatabase 
+https://www.youtube.com/watch?v=V5bXSMgu2uo&ab_channel=AppleDatabase
+https://www.youtube.com/watch?v=NEkNgxd3cEQ&ab_channel=AppleDatabase
+
+For the soundscape, I used a sample from Endel, which is a renowned app that generates AI-based sounds to keep people focused. Here's the link: https://www.youtube.com/watch?v=Fy9-mskmhQ8
+
 
 # Daily journal, featuring struggles and moments of joy
 
