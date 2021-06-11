@@ -10,8 +10,6 @@ The game is conceptually simple. The user creates a profile to keep track of the
 Before coming to this concept, I explored different ideas in this draft:
 
 <img width="500" alt="brainstorm_page_1" src= https://user-images.githubusercontent.com/61503490/121135297-6c49b300-c845-11eb-8ce4-89cfec66893f.jpg>
-
-
 <img width="500" alt="brainstorm_page_1" src=https://user-images.githubusercontent.com/61503490/121135382-7ec3ec80-c845-11eb-8a51-196d5579b8ce.jpg>
 
 
