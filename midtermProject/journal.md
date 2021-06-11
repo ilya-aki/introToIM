@@ -1,5 +1,6 @@
 # Gamify your essay
 
+### Introduction
 On personal experience, I find it hard to enter a state of flow to write my essays. It is often an intimidating process that should not be left for the last minute. This is why I thought of gamification, a known technique that makes work more fun. Taking inspiration from pomodoro study techniques and smart fitness equipment UX (powered by sounds), I want to make a game that would reward the write on the go, as to build a habit to put down words fearlessly.
 
 
