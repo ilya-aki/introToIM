@@ -70,3 +70,12 @@ And when I ran it, I could hear and see in the terminal that the variable indica
 
 But then, it struck me that this condition was true while the key was _phisically_ pressed. So, there was a time factor involved; if I kept on having my finger on the key, the sounds and numbers would continue to increment. However what I need is this condition to happen only once, when the key is pressed, regardless for how long is pressed.
   *Solution* → I decided to resolve this by placing the code in ````void keyTyped()````. This is also useful in not including the shift key into the count.
+  
+  
+## Submission comment
+
+I have not been able to finalize this game, as there were many issues I do not know how to solve. 
+
+I have created a separate processing document for creating the homescreen UI as I thought it would be easier to then merge the entire code, just like puzzle pieces. In order to deliver at least some working pieces, I have not merged the code together as the conditions I have created in the homescreen page are not working. In fact, I intended for the page to "refresh" once the user clicks on the corresponding button, however this is not working.
+
+As for the main code, Processing takes time to launch the program. After it is loaded, the user is supposed to start typing, however I have not figured out a way to make an input box for the user to see their text. Once the user typed more than 20 characters, a different sound will play and start the soundscape. This meditative music is supposed to stop playing if the user does not type enough during the following minute (as the goal of the game is to simply overcome a writer's block, and to incentivize the quantity of writing above quality). I thought of implementing this idea by dividing the a variable (tracking the time elapsed after the soundscape started) by 60 (as the function used tracks milliseconds). This condition is not working properly as the soundscape stops playing at incorrect moments.
