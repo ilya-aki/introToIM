@@ -7,7 +7,7 @@ Here is the circuit schematic:
 
 
 Here is a picture of the circuit:
-![IMG_5652](https://user-images.githubusercontent.com/61503490/122346989-9cd2d080-cf5a-11eb-9997-248898c6557c.jpeg) 
+![IMG_5652](https://user-images.githubusercontent.com/61503490/122347316-f2a77880-cf5a-11eb-95bd-eca7b16e89eb.jpeg)
 
 And here is the link to a video with my project working;
 https://drive.google.com/file/d/14iOvELvPAZNJ9FniLOnsKVfCaS-UPliH/view?usp=sharing 
