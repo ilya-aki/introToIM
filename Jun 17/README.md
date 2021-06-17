@@ -6,5 +6,8 @@ Here is the circuit schematic:
 ![IMG_0640](https://user-images.githubusercontent.com/61503490/122346456-07374100-cf5a-11eb-833d-02ac0d910d15.JPG) 
 
 
-And here is a picture of the circuit:
+Here is a picture of the circuit:
 ![IMG_5652](https://user-images.githubusercontent.com/61503490/122346989-9cd2d080-cf5a-11eb-9997-248898c6557c.jpeg) 
+
+And here is the link to a video with my project working;
+https://drive.google.com/file/d/14iOvELvPAZNJ9FniLOnsKVfCaS-UPliH/view?usp=sharing 
