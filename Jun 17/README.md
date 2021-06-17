@@ -1,1 +1,2 @@
-
+In this assignment I have created blinking LEDs that react the brightness in the environment. They also have a button which simply turns on and off both LEDs.
+I think this concept could be implemented in in places where the amount of light needs be kept track of. With the LDR, the LEDs start quickly blinking one after the other, this way indicating to someone that the brightness has dropped. The button can be used as a test trigger to see if the LEDs are properly connected into the circuit.
