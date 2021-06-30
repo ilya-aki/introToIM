@@ -19,13 +19,11 @@ The program will have a set of LEDs-orders to play, for which it will have the d
 ----
 
 
-2. **Practice perfect pitch** 
+2. **Practice perfect pitch**  
 By using a proximity sensor or potentiometer, the user will be asked to modify (either by adjusting the distance of their hand, or twisting the knob) the pitch of a sound as so it corresponds to a note on the chromatic scale.
 
 **How it will work**  
-The program will have a set number of sounds, for which it know the distance/knob positions that correspond to the right pitch. The positions will have a margin ofc.
-
-(but for now we only know how to make arduino play specific notes, not just a continuous sound that modifies with smth, in this case, distance)
+The program will have a set number of sounds, for which it knows the distance/knob positions that correspond to the right pitch. The positions will have a tolerance margin to not make the task too difficult.
 
 ----
 
