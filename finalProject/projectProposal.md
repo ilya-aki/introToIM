@@ -40,7 +40,6 @@ Using 28 Jun’s lecture, the program will randomly assign values for PWMA and A
 
 
 4. **Listening**
-
 Preferably played with headphones, the user will hear a sound, and will have to indicate through arrow keys, which ear that sound was closer to.
 
 **How will it work**  
