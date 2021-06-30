@@ -5,3 +5,4 @@ The new, and current, game, consists of the following; a user has a target on th
 This simplified idea was not without difficulties; the main challenge was connecting Arduino with Processing. For a long time when coding, I could see the RX adn TX buttons light up when the conditions have been fulfilled in Processing, but the LED on Arduino would not turn on. I had to revisit numerous times how to work with ```Serial.available``` and ```Serial.read```. Finally, I was able to send from Processing an integer to Arduino when the mouse was pressed in the target; if Arduino receives 1, then the LED will light up.
 
 Here is a video of my project working;
+https://drive.google.com/file/d/1rHAPzbJIjEyd7wgYpHHi6I8fsW-mt8UH/view?usp=sharing 
