@@ -42,9 +42,9 @@ I have tried the following configuration;
 
 Bubble {
 	colors[0] = #FF0000; //red
-  colors[1] = #0000FF; //blue
-  colors[2] = #008080; //green
-  colors[3] = #FFFF00; //yellow
+  	colors[1] = #0000FF; //blue
+  	colors[2] = #008080; //green
+  	colors[3] = #FFFF00; //yellow
 
 	a = random(0, 4);
 	if (a == 0) {
@@ -89,9 +89,7 @@ void draw() {
 
 My logic was that, for every bubble, the canvas needs to be filled with a new color. I backed up this idea with another simple code where I drew 2 shapes with 2 different colors. Both color were displayed, which made me think that several fill() functions will not disrupt each other, as they affect only what is after them until a new fill has been declared. 
 
-I decided to scale up this example. 
-
-[insert picture].
+I decided to scale up this example. Here are my notes on this:
 https://user-images.githubusercontent.com/61503490/125186964-477a9e00-e23e-11eb-99da-8a4469e5aa46.jpg 
 
 I was questioning the way the for() loop was working. I thought that every frame, it goes through the entire array of bubbles (horizontally) , and assigns a new color, which might have been the source of the problem. I needed the for() loop to go through each bubble several times, in a way, vertically, to preserve its color through the entire fall.
@@ -103,12 +101,9 @@ At the end, nothing was working. But I knew that each object needed to somehow s
 The issue with colors has been resolved during class! I know understand so much better how values are passed between the program and the class. Now, my code randomly generates colors for each bubble and associates it with each bubble when creating it in the setup().
 
 I can now move on to connecting Processing with Arduino.
-
-# SCHEMATIC
-
 I have already built a circuit with 4 buttons, and prepared the code that showed the status of each button.
 
-Here are the items I needed;
+Here are the items I needed to continue the project;
 
 - Create a function that would pop the bubbles when a button is pressed
 - Establish a communication between Processing and Arduino
@@ -142,7 +137,10 @@ Skipping over some details, I have created the following setup to remove each bu
 
 This worked well with mousePressed, however, caused a lot of issues with Arduino. When I was pressing the button, Processing would receive an update on that, and print me that a button is pressed. It would delete the first bubble on the screen, but simply ignore the code further on.
 
-Here is a piece from my brainstorm:
+Here are some pieces from my brainstorm:
+https://user-images.githubusercontent.com/61503490/125187033-94f70b00-e23e-11eb-8268-13cfe214c98b.jpg 
+https://user-images.githubusercontent.com/61503490/125187041-a7714480-e23e-11eb-968a-cdcf69cb5e85.jpg
+
 
 # Saturday, Jun 10
 
