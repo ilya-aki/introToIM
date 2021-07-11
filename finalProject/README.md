@@ -16,3 +16,6 @@ In terms of difficulties, there are too many of them to list here. A succint lis
 
 Video link:
 https://drive.google.com/file/d/1A789GwocEisUPAhTfSnfTkOMfy7ylqEB/view?usp=sharing 
+
+Schematic link:
+https://user-images.githubusercontent.com/61503490/125188196-f7063f00-e243-11eb-80cc-11d1c38710aa.jpg
