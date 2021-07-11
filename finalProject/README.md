@@ -9,7 +9,7 @@ The game also does not contain any end screen that would indicate to the user if
 ### Clever and difficult things:
 In order to allow each bubble to fall one after the other, the canvas features an invisible line that tracks the position of the bubbles. When the lowest bubble on the screen has crossed that line, then, new bubbles are initiated to fall down.
 
-In terms of difficulties, there are too many of them to list here. A succint list would look like this;
+In terms of difficulties, there are too many of them to develop on each here. A succint list would look like this;
 - difficulties with having bubbles fall down one afte the other rather than all together in bulk (resolved thanks to the invisible line)
 - make each bubble have its own color, as for a long time the bubbles were falling with a different color at each frame
 - establishing proper communication between Arduino and Processing as so Processing keeps on looking for more messages from Arduino even after the 1st press of a button
